@@ -18,7 +18,7 @@
 > [nc / FFRS - Revenge](https://github.com/Curious-Lucifer/My_CTF_Challenges/tree/master/THJCC_CTF_2024 "link")
 
 **出題者:Aukro**
-> [Password CheckerPassword Checker /Ret2func / RiskAndaNormalDay]( "link")*(出題者尚未上傳至blog，目前須至DC群下載解題檔案)*
+> [Password CheckerPassword Checker / Ret2func / RiskAndaNormalDay]( "link")*(出題者尚未上傳至blog，目前須至DC群下載解題檔案)*
 
 **出題者:OsGa**
 > [welcome 0x1 / discord 0x1 / 博元婦產科 / 出題者大合照！](https://blog.osga.lol/p/thjcc/ "link")
