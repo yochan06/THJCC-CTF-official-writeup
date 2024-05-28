@@ -1,6 +1,6 @@
 # THJCC-CTF官方writeup
 **出題者:Flydragon**
-[⚾ / Not Apple / flag-decoder](https://flydragonw.github.io/posts/thjcc_writeup "link")
+> [⚾ / Not Apple / flag-decoder](https://flydragonw.github.io/posts/thjcc_writeup "link")
   
 **出題者:dkri3c1**
 [原神帳號外流 / Evil Form](https://dkri3c1.github.io/p/thjcc-misc-部分官方詳解/ "link")
