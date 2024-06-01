@@ -2,7 +2,7 @@
 **解題影片 講解人:yochan0406**
 [Youtube](https://www.youtube.com/playlist?list=PLMp8l3TpQMAPXS6j6UYjorkyu_Q07ympn "link")
 
-##出題者提供的writeup
+## 出題者提供的writeup
 
 **出題者:Flydragon**
 > [⚾ / Not Apple / flag-decoder](https://flydragonw.github.io/posts/thjcc_writeup "link")
