@@ -1,5 +1,5 @@
 # THJCC-CTF官方writeup
-**解題影片 講解人:yochan0406**
+**解題影片 講解人:yochan06**
 [Youtube](https://www.youtube.com/playlist?list=PLMp8l3TpQMAPXS6j6UYjorkyu_Q07ympn "link")
 
 ## 出題者提供的writeup
